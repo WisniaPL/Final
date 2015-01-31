@@ -21,7 +21,7 @@
     <item quantity="zero">%d plików</item>
     <item quantity="one">%d plik</item>
     <item quantity="two">%d pliki</item>
-    <item quantity="few">%d plików</item>
+    <item quantity="few">%d pliki</item>
     <item quantity="many">%d pliki</item>
   </plurals>
   <plurals name="ui_bar_txt_download_progress">

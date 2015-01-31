@@ -16,7 +16,7 @@
     <item quantity="other">%d nowe</item>
   </plurals>
   <plurals name="Ntracks_count">
-    <item quantity="other">%d piosenki</item>
+    <item quantity="other">%d piosenek</item>
     <item quantity="one">%d piosenka</item>
   </plurals>
   <plurals name="Ntracks_similar_count">
@@ -32,7 +32,7 @@
     <item quantity="one">Piosenka usunięta z listy odtwarzania</item>
   </plurals>
   <plurals name="artist_list_fragment_item_count_format">
-    <item quantity="other">%d piosenki</item>
+    <item quantity="other">%d piosenek</item>
     <item quantity="one">1 piosenka</item>
   </plurals>
   <plurals name="send_songs_toast">
@@ -40,7 +40,7 @@
     <item quantity="one">1 piosenka zostanie wysłana</item>
   </plurals>
   <plurals name="folder_songs_count">
-    <item quantity="other">%d piosenki</item>
+    <item quantity="other">%d piosenek</item>
     <item quantity="one">1 piosenka</item>
   </plurals>
 </resources>
