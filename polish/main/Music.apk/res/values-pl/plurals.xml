@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<resources>
+  <plurals name="Ntracks_search_result">
+    <item quantity="other">%d piosenki znalezione</item>
+    <item quantity="one">%d piosenka znaleziona</item>
+  </plurals>
+  <plurals name="Nexpired_remind">
+    <item quantity="other">%d dni pozostało</item>
+    <item quantity="one">%d dzień pozostał</item>
+  </plurals>
+  <plurals name="NTrackstoDownload">
+    <item quantity="other">%d piosenki zostaną pobrane</item>
+    <item quantity="one">1 piosenka zostanie pobrana</item>
+  </plurals>
+  <plurals name="Nnew_tracks_count">
+    <item quantity="other">%d nowe</item>
+  </plurals>
+  <plurals name="Ntracks_count">
+    <item quantity="other">%d piosenki</item>
+    <item quantity="one">%d piosenka</item>
+  </plurals>
+  <plurals name="Ntracks_similar_count">
+    <item quantity="other">%d podobne piosenki</item>
+    <item quantity="one">%d podobna piosenka</item>
+  </plurals>
+  <plurals name="Ntracks_add_to_playlist">
+    <item quantity="other">%d piosenki dodane do listy odtwarzania</item>
+    <item quantity="one">Piosenka dodana do listy odtwarzania</item>
+  </plurals>
+  <plurals name="Ntracks_remove_from_playlist">
+    <item quantity="other">%d piosenek usuniętych z listy odtwarzania</item>
+    <item quantity="one">Piosenka usunięta z listy odtwarzania</item>
+  </plurals>
+  <plurals name="artist_list_fragment_item_count_format">
+    <item quantity="other">%d piosenki</item>
+    <item quantity="one">1 piosenka</item>
+  </plurals>
+  <plurals name="send_songs_toast">
+    <item quantity="other">%d piosenki zostaną wysłane</item>
+    <item quantity="one">1 piosenka zostanie wysłana</item>
+  </plurals>
+  <plurals name="folder_songs_count">
+    <item quantity="other">%d piosenki</item>
+    <item quantity="one">1 piosenka</item>
+  </plurals>
+</resources>
