@@ -856,7 +856,7 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="dialog_voicemail_airplane_mode_message">Wyłącz Tryb Samolotowy aby skorzystać z poczty głosowej.</string>
   <string name="action_menu_overflow_description">Więcej opcji</string>
   <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>
-  <string name="yellowpage_search_the_yellowpage">Search the directory</string>
+  <string name="yellowpage_search_the_yellowpage">Szukaj w katalogu</string>
   <string name="import_from_sim">Dodaj kontakty z karty SIM</string>
   <string name="export_to_sim_title">Kopiowanie na kartę SIM…</string>
   <string name="import_from_sim1">Dodaj kontakty z karty SIM</string>
